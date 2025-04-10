@@ -1,6 +1,5 @@
 ## Hi there 👋
-> Software Developer
-  AI/ML Enthusiast
+> **Software Developer**, AI/ML and algorithm solving enthusiast
 - Computer Science at [Universidade Católica da Brasília](https://ucb.catolica.edu.br/)
 
 ## Tech Stack
