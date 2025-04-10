@@ -7,7 +7,11 @@
 - Java
 - Python
 
-![Build Status](https://github.com/rdAraujoV/rdAraujoV/actions/workflows/build.yml/badge.svg)
+<div>
+  <a hrf="https://github.com/rdAraujoV">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdAraujoV&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdAraujoV&layout-compact&langs_count=16&theme=shadow_blue"/>
+</div>
 
 <!--
 **rdAraujoV/rdAraujoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
