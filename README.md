@@ -2,10 +2,6 @@
 > **Software Developer**, AI/ML and algorithm solving enthusiast
 - Computer Science at [Universidade Católica da Brasília](https://ucb.catolica.edu.br/)
 
-## Tech Stack
-- Java
-- Python
-
 <div>
   <a hrf="https://github.com/rdAraujoV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdAraujoV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
